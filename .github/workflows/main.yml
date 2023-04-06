@@ -32,6 +32,6 @@ jobs:
       - name: Step 5 - What is in the src folder?
         run: |
           cd src
-          ls -a
+          ls 
      
              
